@@ -1,9 +1,6 @@
-### Hi there 👋
 
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=JoeforTomorrow&hide_border=true" align ="center" style="zoom: 80%"  />[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whrl1212" align = "center"  />](https://solved.ac/whrl1212)
+<img src="https://github-readme-stats.vercel.app/api?username=JoeforTomorrow&hide_border=true" align ="center" style="zoom: 60%"  />[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whrl1212" align = "center"  />](https://solved.ac/whrl1212)
 
 
 
