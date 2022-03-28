@@ -1,8 +1,10 @@
-
+<div align=center>
 
 <img src="https://github-readme-stats.vercel.app/api?username=JoeforTomorrow&hide_border=true" align ="center" style="zoom: 60%"  />[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whrl1212" align = "center"  />](https://solved.ac/whrl1212)
 
-
+<div align=center>
+  
+[<img src="https://img.youtube.com/vi/5zzv1dfdI2U/0.jpg" alt="유투부" style="zoom:50%;" align = "center" />](https://youtube.com/shorts/5zzv1dfdI2U)
 
 
 
