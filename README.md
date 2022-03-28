@@ -4,10 +4,11 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=JoeforTomorrow&hide_border=true" align ="center" style="zoom: 50%"  />
   
-[![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=3&description=나의%20풀이는%20최저야)](https://joefortomorrow.tistory.com/3)
+
 
 |[<img src="https://img.youtube.com/vi/5zzv1dfdI2U/0.jpg" alt="유투부" style="zoom:25%;" align = "center" />](https://youtube.com/shorts/5zzv1dfdI2U)
 
+  [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=3&description=나의%20풀이는%20최저야)](https://joefortomorrow.tistory.com/3)
 
 <div align=center>
 
