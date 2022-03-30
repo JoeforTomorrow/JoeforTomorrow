@@ -5,7 +5,7 @@
 
 _**Major in Social Welfare & Big Data Analyzing**_
 
-_**Qualification - Social Survey analyst & Advanced Data Analytics Semi-Professional**_
+_**Qualification - Social Survey Analyst 2 & Advanced Data Analytics Semi-Professional**_
   
   .
   .
@@ -47,8 +47,6 @@ _**Tools**_
   _**And also...**_ 
 
   [![YouTube Badge](https://shields.io/badge/-YouTube-critical?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCZvyF_zksl6TfOBmoD003sQ/)](https://www.youtube.com/channel/UCZvyF_zksl6TfOBmoD003sQ)
-
- [<img src="https://i9.ytimg.com/vi/XrALjqHeSpE/mqdefault.jpg?sqp=CNS4jpIG&rs=AOn4CLB42S32LYELtpUO_5cdUAUjrnttwg" alt="유투부" style="width: 22%" align = "center" />](https://youtu.be/XrALjqHeSpE)
  
 [<img src="https://img.youtube.com/vi/5zzv1dfdI2U/0.jpg" alt="유투부" style="width: 22%" align = "center" />](https://youtube.com/shorts/5zzv1dfdI2U)
 
