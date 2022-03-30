@@ -33,8 +33,10 @@ _**Tools**_
   
 
 
-| [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=3&description=나의%20풀이는%20최저야)](https://joefortomorrow.tistory.com/3) | [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=2&description=일은%20게으른%20데서%20패하게%20된다.)](https://joefortomorrow.tistory.com/2) |
-| ------------------------------------------------------------ | -------
+| [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=3&description=나의%20풀이는%20최저야)](https://joefortomorrow.tistory.com/3) |
+| ------------------------------------------------------------ |
+| [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=2&description=일은%20게으른%20데서%20패하게%20된다.)](https://joefortomorrow.tistory.com/2) |
+
 <div align=center>
   
 
@@ -46,8 +48,10 @@ _**Tools**_
 
   [![YouTube Badge](https://shields.io/badge/-YouTube-critical?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCZvyF_zksl6TfOBmoD003sQ/)](https://www.youtube.com/channel/UCZvyF_zksl6TfOBmoD003sQ)
 
-  
-[<img src="https://img.youtube.com/vi/5zzv1dfdI2U/0.jpg" alt="유투부" style="width: 22%" align = "center" />](https://youtube.com/shorts/5zzv1dfdI2U) [<img src="https://i9.ytimg.com/vi/XrALjqHeSpE/hqdefault.jpg?sqp=CNjIi5IG&rs=AOn4CLBLTn3zXmYI5xFjOhlf3M3t3DRXWQ" alt="유투부" style="width: 22%" align = "center" />](https://youtu.be/XrALjqHeSpE)
+ [<img src="https://i9.ytimg.com/vi/XrALjqHeSpE/mqdefault.jpg?sqp=CNS4jpIG&rs=AOn4CLB42S32LYELtpUO_5cdUAUjrnttwg" alt="유투부" style="width: 22%" align = "center" />](https://youtu.be/XrALjqHeSpE)
+ 
+[<img src="https://img.youtube.com/vi/5zzv1dfdI2U/0.jpg" alt="유투부" style="width: 22%" align = "center" />](https://youtube.com/shorts/5zzv1dfdI2U)
+
  
   
   
