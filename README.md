@@ -7,31 +7,45 @@ _**Major in Social Welfare & Big Data Analyzing**_
 
 _**Qualification - Social Survey Analyst 2 & Advanced Data Analytics Semi-Professional**_
   
-  .
-  .
-  .
+ ...
   
 _**Tools**_ 
 
 </div>
   
 <div align=center>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Tableau-007396?style=for-the-badge&logo=Tableau&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> <img src="https://img.shields.io/badge/Rstudio-61DAFB?style=for-the-badge&logo=Rstudio&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-007396?style=for-the-badge&logo=Tableau&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
 
->
->
->
->
+> 
+<img src="https://img.shields.io/badge/Rstudio-61DAFB?style=for-the-badge&logo=Rstudio&logoColor=white">
+<img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=white">
 
+
+ 
+ >
+_**BOJ**_ 
+ 
 <div align=center>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=whrl1212)](https://solved.ac/whrl1212)
   
 [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whrl1212" align = "center"  />](https://solved.ac/whrl1212) 
-  
-<img src="https://github-readme-stats.vercel.app/api?username=JoeforTomorrow&hide_border=true" align ="center" style="zoom: 50%"  />
-  
+ 
 
+ 
+ >
+_**GitHub Stats**_ 
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=JoeforTomorrow&hide_border=true" align ="center" style="zoom: 50%"  />
+
+>
+ 
+_**Blog**_ 
 
 | [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=3&description=나의%20풀이는%20최저야)](https://joefortomorrow.tistory.com/3) |
 | ------------------------------------------------------------ |
@@ -39,7 +53,7 @@ _**Tools**_
 
 <div align=center>
   
-
+_**Network**_ 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/J0_40.1/)](https://www.instagram.com/J0_40.1/)[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/HelloJo99/)](https://www.facebook.com/HelloJo99/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doyongkin@gmail.com)](mailto:doyongkin@gmail.com)
 
