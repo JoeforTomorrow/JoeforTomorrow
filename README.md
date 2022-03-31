@@ -1,7 +1,7 @@
 <div align=center>
  
   
-  _**Graduated University of Seoul**_
+  _**Graduated from University of Seoul**_
 
 _**Major in Social Welfare & Big Data Analyzing**_
 
