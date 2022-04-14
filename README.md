@@ -1,5 +1,7 @@
 <div align=center>
- 
+
+   <div>
+
 _**Graduated from University of Seoul**_
 
 _**Major in Social Welfare & Big Data Analyzing**_
@@ -8,11 +10,9 @@ _**Qualification - Social Survey Analyst 2 & Advanced Data Analytics Semi-Profes
 
 <p>...</p>
 
-</div>
- 
+  </div>
 
-
-<div align=center>
+  <div>
  
 _**Tools**_ 
  
@@ -24,49 +24,56 @@ _**Tools**_
 <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/jupyter-%23F37626?style=for-the-badge&logo=Jupyter&logoColor=white"></p>
-<p>.</p>
 
-</div>
+  </div>
 
-
-<div align=center>
+  <div>
 
 _**BOJ**_ 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=whrl1212)](https://solved.ac/whrl1212)
 
 [<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whrl1212" align = "center"  />](https://solved.ac/whrl1212) 
-<p>.</p>
+
+  </div>
  
+  <div>
+   
 _**GitHub Stats**_ 
  
 <img src="https://github-readme-stats.vercel.app/api?username=JoeforTomorrow&hide_border=true" align ="center" style="zoom: 50%"  />
-<p>.</p>
-</div>
+   
+  </div>
  
- 
-
-<div align=center>
+  <div>
 
 _**Blog**_ 
 
 | [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=3&description=나의%20풀이는%20최저야)](https://joefortomorrow.tistory.com/3) |
 | ------------------------------------------------------------ |
 | [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=2&description=일은%20게으른%20데서%20패하게%20된다.)](https://joefortomorrow.tistory.com/2) |
-<p>.</p>
  
+  </div>
+ 
+  <div>
+   
 _**Network**_ 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/J0_40.1/)](https://www.instagram.com/J0_40.1/)[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/HelloJo99/)](https://www.facebook.com/HelloJo99/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:doyongkin@gmail.com)](mailto:doyongkin@gmail.com)
 
+  </div>
+
+  <div>
+   
   _**And also...**_ 
 
   [![YouTube Badge](https://shields.io/badge/-YouTube-critical?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCZvyF_zksl6TfOBmoD003sQ/)](https://www.youtube.com/channel/UCZvyF_zksl6TfOBmoD003sQ)
  
 [<img src="https://img.youtube.com/vi/5zzv1dfdI2U/0.jpg" alt="유투부" style="width: 22%" align = "center" />](https://youtube.com/shorts/5zzv1dfdI2U)
 
-</div>
+  </div>
 
+</div> 
 
 
   
