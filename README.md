@@ -70,7 +70,9 @@ _**Network**_
   [![YouTube Badge](https://shields.io/badge/-YouTube-critical?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCZvyF_zksl6TfOBmoD003sQ/)](https://www.youtube.com/channel/UCZvyF_zksl6TfOBmoD003sQ)
  
 [<img src="https://img.youtube.com/vi/5zzv1dfdI2U/0.jpg" alt="유투부" style="width: 22%" align = "center" />](https://youtube.com/shorts/5zzv1dfdI2U)
-
+[<img src="https://img.youtube.com/vi/QvtxZ95S7aI/0.jpg" alt="유투부" style="width: 22%" align = "center" />](https://youtube.com/shorts/QvtxZ95S7aI)
+[<img src="https://img.youtube.com/vi/V4EHha_lc4g/0.jpg" alt="유투부" style="width: 22%" align = "center" />](https://youtube.com/shorts/V4EHha_lc4g)
+     
   </div>
 
 </div> 
