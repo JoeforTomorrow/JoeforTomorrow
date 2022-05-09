@@ -1,5 +1,22 @@
-<div align=center>
+### 오늘은 상상했지만, 내일은 실현시킨다.
+"무언가 학문을 배웠다고 하면, 그것에 대한 **자신만의 정의**를 내릴 수 있어야 한다."<br/>
+학부 시절, 은사님께서 하셨던 말씀입니다.<br/><br/>
+그러한 관점에서, 저는 **데이터**에 대해 다음과 같이 정의하고 싶습니다.<br/>
+주관적인 현상을 이진화 하여 나타낸 것.<br/>
+데이터 **분석**은 이렇게 정의할까 합니다.<br/>
+그 이진화된 현상에 다시금 의미를 부여하는 것.<br/>
+그렇다면 **시각화**란 무어라 할까요.<br/>
+우리 머릿속의 상상, 상념에 형태를 부여한 것이 아닐까 싶습니다.<br/>
+나아가 **프로그래밍**이란, 이렇게 볼 수 있지 않을까요?<br/>
+상상을 현실로 만들고, 다시금 또다른 데이터를 만들어내는 것.<br/><br/>
+제게 프로그래밍이란 이렇게 상상과 실현을 끝나지 않는 하나의 환류로 연결하는 과정이자,<br/>
+깊이 제한이 없는 재귀함수로 정의하는 과정과도 같습니다.<br/>
+저는 이 프로그래밍을 하면서, **오늘의 상상을 내일에는 실현시키는 즐거움**을 배워가고 있습니다.
 
+<div align=center>
+   
+   <p>...</p>
+   
    <div>
 
 _**Graduated from University of Seoul**_
@@ -29,18 +46,9 @@ _**Tools**_
 
   <div>
 
-_**BOJ**_ 
+_**BOJ & GitHub Stats**_ 
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=whrl1212)](https://solved.ac/whrl1212)
-
-[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whrl1212" align = "center"  />](https://solved.ac/whrl1212) 
-
-  </div>
- 
-  <div>
-   
-_**GitHub Stats**_ 
- 
+[<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=whrl1212" align = "center"  />](https://solved.ac/whrl1212)
 <img src="https://github-readme-stats.vercel.app/api?username=JoeforTomorrow&hide_border=true" align ="center" style="zoom: 50%"  />
    
   </div>
@@ -49,9 +57,8 @@ _**GitHub Stats**_
 
 _**Blog**_ 
 
-| [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=3&description=나의%20풀이는%20최저야)](https://joefortomorrow.tistory.com/3) |
-| ------------------------------------------------------------ |
-| [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=2&description=일은%20게으른%20데서%20패하게%20된다.)](https://joefortomorrow.tistory.com/2) |
+| [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=3&description=나의%20풀이는%20최저야)](https://joefortomorrow.tistory.com/3) | [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=2&description=일은%20게으른%20데서%20패하게%20된다.)](https://joefortomorrow.tistory.com/2) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
  
   </div>
  
@@ -76,8 +83,6 @@ _**Network**_
   </div>
 
 </div> 
-
-
   
 <!--
 **JoeforTomorrow/JoeforTomorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
