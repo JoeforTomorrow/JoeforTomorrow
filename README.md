@@ -19,7 +19,7 @@
    
    <div>
 
-_**Graduated from Seoul Foreign Language Highschool (2013) & University of Seoul (2021)**_
+_**Graduated from Seoul Foreign Language High School (2013) & University of Seoul (2021)**_
 
 _**Major in Social Welfare & Big Data Analyzing**_
 
