@@ -57,7 +57,7 @@ _**BOJ & GitHub Stats**_
 
 _**Blog**_ 
 
-| [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=3&description=나의%20풀이는%20최저야)](https://joefortomorrow.tistory.com/3) | [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=2&description=일은%20게으른%20데서%20패하게%20된다.)](https://joefortomorrow.tistory.com/2) |
+| [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=3&description=나의%20풀이는%20최저야)](https://joefortomorrow.tistory.com/3) | [![Tistory](https://tistory-readme-stats.vercel.app/api?name=joefortomorrow&postId=17&description=첫%20프로젝트%20후%20남은%20감상)](https://joefortomorrow.tistory.com/17) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
  
   </div>
