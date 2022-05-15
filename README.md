@@ -23,7 +23,7 @@ _**Graduated from Seoul Foreign Language High School (2013) & University of Seou
 
 _**Major in Social Welfare & Big Data Analyzing**_
 
-_**Qualification - Social Survey Analyst 2 & Advanced Data Analytics Semi-Professional**_
+_**Qualification - Social Survey Analyst 2 (사회조사분석사 2급) & Advanced Data Analytics Semi-Professional (데이터분석준전문가)**_
 
 <p>...</p>
 
