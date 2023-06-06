@@ -1,8 +1,18 @@
 **열심히 합시다**
 
-백엔드 어드민, DevOps, DataEngineering, Cloud Engineering(GCP) 등을 하고있습니다. (잡부)
+_Data Pipeline 프로세스 및 데이터 아키텍쳐 관리 및 BigQuery 비용 최적화_
 
-파이썬 원툴입니다.
+_웹 프레임워크를 통한 서비스 API 개발 -> Cloud Run 배포 및 운영_
+
+_BigQuery를 통한 서비스 로그 데이터 추출 및 Pandas를 활용한 BI/분석 용 데이터 파이프라인 배치(스케줄링) 작업 관리_
+
+_GCP 내 서비스/리소스 관리 자동화 모듈 개발 및 스케줄러 관리_
+
+등등, 백엔드 어드민, DevOps, DataEngineering, Cloud Engineering(GCP) 등을 진행하였거나, 하고 있습니다. (잡부)<br/>
+파이썬 원툴입니다만, (sql은 덤)<br/>
+중요한 것은 범용적인 기술에 대한 이해와 비즈니스 로직에 대한 이해입니다.
+
+보다 고품질의 서비스, 더 나은 개발/관리 환경 구축, 데이터 드리븐 비즈니스를 위한 개발 업무를 합니다.
 
 <div align=left>   
 <p>...</p>
